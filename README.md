@@ -1,20 +1,11 @@
-# 💚💚 Trybe-Project-07-Meme-Generator 💚💚
+# 💚💚 Trybe-Project-10-Zoo-Functions 💚💚
 
-Project responsible for presenting my skills with HTML, CSS and JavaScript
-
-## Access the project:
-### https://mateushoffman.github.io/Trybe-Project-07-Meme-Generator
+Project responsible for presenting my skills with JavaScript and Jest
 
 ## NOTA - 100%
 
 <div align="center" margin="50px">
-	<img src="img/"/>
-</div>
-
-## Preview:
-
-<div align="center" margin="50px">
-	<img src="img/"/>
+	<img src="img/app.betrybe.com_course_projects_2230.png"/>
 </div>
 
 ## Connect with me:
