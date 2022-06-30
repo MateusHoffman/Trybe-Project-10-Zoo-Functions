@@ -5,7 +5,7 @@ Project responsible for presenting my skills with JavaScript and Jest
 ## NOTA - 100%
 
 <div align="center" margin="50px">
-	<img src="img/app.betrybe.com_course_projects_2230.png"/>
+	<img src="img/grade.png"/>
 </div>
 
 ## Connect with me:
