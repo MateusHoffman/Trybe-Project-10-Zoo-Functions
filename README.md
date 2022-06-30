@@ -2,7 +2,7 @@
 
 Project responsible for presenting my skills with JavaScript and Jest
 
-## NOTA - 100%
+## NOTA - 100% 
 
 <div align="center" margin="50px">
 	<img src="img/grade.png"/>
